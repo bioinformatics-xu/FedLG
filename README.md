@@ -50,3 +50,11 @@ python experiments.py --model=simple-cnn \
 | `sample` | Ratio of parties that participate in each communication round, default = `1`. |
 | `init_seed` | The initial seed, default = `0`. |
 
+## Cite
+This project is developed based on Non-NllD, if you find this repository useful, please cite paper:
+@inproceedings{li2022federated,
+      title={Federated Learning on Non-IID Data Silos: An Experimental Study},
+      author={Li, Qinbin and Diao, Yiqun and Chen, Quan and He, Bingsheng},
+      booktitle={IEEE International Conference on Data Engineering},
+      year={2022}
+}
